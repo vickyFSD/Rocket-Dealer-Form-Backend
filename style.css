@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.main {
+  background-color: #916002;
+  background: linear-gradient(#774f01, #95722d, #774f01);
+  border-radius: 50px;
+  padding-left: 3rem;
+  padding-right: 3rem;
+
+}
+
+label {
+  color: white;
+}
+
+h3 {
+  color: white;
+  padding-top: 3rem!important;
+}
+
+input,textarea,select,button{
+  border-radius: 15px!important;
+
+}
+
+select {
+    border: 2px solid gray!important;
+}
+
+.bg-white{
+    border-radius: 15px;
+}
+
+button{
+    background-color: #95722d!important;
+    color: white!important;
+}
+
+.quantity{
+    border: 2px solid gray!important;
+}
+
+.show_table {
+    background-repeat: 15px;
+}
+
+label{
+    font-size: 20px!important;
+}
+
+.submit_btn{
+    font-size: 20px;
+    font-weight: 700!important;
+    padding:  0.5rem 2rem;
+    background-color: white!important;
+    color: #95722d!important;
+}
+
